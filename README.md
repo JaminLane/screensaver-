@@ -1,0 +1,2 @@
+# screensaver-
+For my screensaver project I wanted to be able to create a changing background with a ball moving about the screen. When I created my code I tried to make the background first and I believe this is what gave me problems. When I went to add the ball to move about the screen I could never figure out how to make it appear before the background instead of behind it. My belief is that it is stuck behind because the program is running on a loop. Either way im proud of what I have made and would make it my own background! 
